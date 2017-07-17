@@ -11,6 +11,11 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+    <h1>
+      this is a header.
+    </h1>
+  <div>
+    <p>paragraph1: new line.</p>
+  </div>
   </body>
 </html>
